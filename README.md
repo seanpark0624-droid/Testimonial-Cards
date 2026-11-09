@@ -4,7 +4,7 @@
 <h2>Source of the Project</h2>
 <p>https://roadmap.sh/projects/testimonial-cards</p>
 <h2>My Own Project Review</h2>
-<a>here</a>
+<a href="https://seanpark0624-droid.github.io/Testimonial-Cards/">here</a>
 <h2>How to run the project:</h2>
 <ol>
   <li>Open <code>index.html</code> file and <code>styles.css</code> file.</li>
